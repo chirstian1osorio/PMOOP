@@ -1,0 +1,9 @@
+Cliente
+Nombre: juan peralta
+Edad: 23
+Correo: alfred.osorio@outlook.com
+Album:
+	Precio: $432.12
+	Artista: Noche alternas
+	Canciones: 9
+	Duracion: 28.1
